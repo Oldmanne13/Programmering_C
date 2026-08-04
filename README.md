@@ -11,6 +11,7 @@ Velkommen til mit repository for Programmering C. Her samler jeg alt kursusmater
 3. [📊 Data, Sensorer & Visualisering](#3-data-sensorer--visualisering)
 4. [🚀 Eksamensprojekt](#4-eksamensprojekt)
 
+
 ---
 
 ## 1. 🐍 Introduktion til Python & Algoritmer 
