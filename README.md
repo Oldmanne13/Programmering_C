@@ -13,7 +13,7 @@ Velkommen til mit repository for Programmering C. Her samler jeg alt kursusmater
 
 ---
 
-## 1. 🐍 Introduktion til Python & Algoritmer
+## 1. 🐍 Introduktion til Python & Algoritmer 
 * **Emner:** Variabler, Datatyper, `if/else`, `for`- & `while`-løkker, Funktioner.
 * **Værktøjer:** VS Code, Thonny, Python 3.
 
